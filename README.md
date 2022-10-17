@@ -1,0 +1,2 @@
+# 1710221
+SELECT * from users SELECT * FROM INFORMATION_SCHEMA.TABLES SELECT * FROM GRADES SELECT * from users where name like "Олег"
